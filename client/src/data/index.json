@@ -1,0 +1,140 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML, CSS, JavaScript, Bootstrap, AJAX, JSON, React.js"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Node.js, Express.js, MongoDB, Mongoose, Redux.js, FireBase"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Development Tools",
+      "description": "Microsoft Visual Studio Code, Tailwind CSS, Figma, AEM"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Platforms",
+      "description": "Windows, Git, GitHub, AWS"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Real_Estate_Project",
+      "description": "Welcome to RealEstateWeb, an innovative web application revolutionizing the way real estate projects are managed and showcased. RealEstateWeb harnesses the power of modern technologies to provide a seamless experience for both developers and potential buyers.At its core, RealEstateWeb boasts a sleek and intuitive interface crafted with HTML, CSS, and JavaScript, ensuring compatibility across all devices, from desktops to smartphones. The use of React.js amplifies user interaction, delivering a dynamic and responsive platform that adapts effortlessly to user needs.",
+      "skills": "HTML, CSS, Javascript, BootStrap, React.js, Node.js",
+      "link2": "Live Demo",
+      "url2": "https://real-estate-project-main.netlify.app",
+      "link": "View In Github",
+      "url": "https://github.com/chetanamore/real_estate_project"
+    },
+   
+    
+    {
+      "id": "2",
+      "src": "./img/placeholder-image.png",
+      "title": "Travel World",
+      "description": "Welcome to Travel World, your gateway to exploring the wonders of the globe. Our landing page project is a testament to our expertise in front-end technologies, showcasing a blend of creativity and functionality to inspire wanderlust in every visitor Crafted with precision using HTML, CSS, and JavaScript, our landing page serves as a visual feast, enticing users to embark on unforgettable journeys. Leveraging the power of Bootstrap and Tailwind CSS, we've ensured that our design is not only aesthetically pleasing but also fully responsive, adapting seamlessly to all devices and screen sizes      ",
+      "skills": "HTML, CSS, Javascript, BootStrap, React js",
+      "link2": "Live Demo",
+      "url2": "https://tourtravelworld.netlify.app/",
+      "link": "View In Github",
+      "url": "https://github.com/shivtej1201/OpenShift-LandingPage"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Online-Shopping",
+      "description": "Welcome to ShopEase, your ultimate destination for seamless online shopping experiences. Our website is more than just a marketplace—it's a haven for shoppers seeking convenience, variety, and reliability, all wrapped up in a sleek and intuitive interface.Join the ShopEase community today and experience online shopping like never before. Whether you're treating yourself to a little retail therapy or searching for the perfect gift, ShopEase has everything you need to shop with ease, convenience, and confidence.",
+      "skills": "HTML, CSS, Javascript, BootStrap",
+      "link2": "Live Demo",
+      "url2": "https://online-shopping-website-07.netlify.app/",
+      "link": "View In Github",
+      "url": "https://github.com/chetanamore/OnlineShopping"
+    }
+    
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "certifiction": "./img/Simpli.jpg",
+      "author_name": "Front-End Development",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "certifiction": "./img/css.png",
+      "author_name": "CSS-Basic",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "certifiction": "./img/sql1.png",
+      "author_name": "SQL",
+      "author_designation": "McDonald's"
+    },
+    {
+      "id": "4",
+      "count": "5",
+      "certifiction": "./img/javascript.png",
+      "author_name": "JavaScript",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "5",
+      "count": "5",
+      "certifiction": "./img/py.png",
+      "author_name": "Python Course",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "6",
+      "count": "5",
+      "certifiction": "./img/java.png",
+      "author_name": "javascript(Basic)",
+      "author_designation": "McDonald's"
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "MCA.Computer Application",
+      "author_name": "2023-Present",
+      "author_designation": "A",
+      "url": "https://drive.google.com/file/d/1d0OqJvLYX56ZqMDLHj5xaeR1_YyysRaJ/view?usp=sharing"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Bsc.Computer Science",
+      "author_name": "2019-2022",
+      "author_designation": "A+",
+      "url": "https://drive.google.com/file/d/1gtlUyZVEoD4z3GrRCE22aLKRI8QdUHyg/view?usp=sharing"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Front End Developer",
+      "author_name": "2022-2023",
+      "author_designation": "A",
+      "url": "https://drive.google.com/file/d/1hv5iBM4zIocVafyHpxTDl6e59sNIRq8K/view?usp=sharing"
+    }
+  ]
+ 
+}
